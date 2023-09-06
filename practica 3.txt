@@ -1,0 +1,12 @@
+<¡DOCTYPE html>
+<html>
+    <head>
+        <title>CATÁLOGO DE PRODUCTOS</title>
+    </head>
+    <body>
+        <header>electrónicos</header>
+        <section>productos</section>
+        <footer>indice</footer>
+    </body>
+</html>
+
